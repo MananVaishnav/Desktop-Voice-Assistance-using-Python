@@ -17,6 +17,7 @@ The virtual assistant didn't always understand what we were saying. This is due 
 4. OS
 5. Wikipedia
 6. Datetime
+7. PyQt5 for UI
 
 # Summary
 The virtual assistants which are currently available are fast and responsive but we still have to go a long way. The understanding and reliability of the current systems need to be improved a lot. The assistants available nowadays are still not reliable in critical scenarios. The future of these assistants will have the virtual assistants incorporated with Artificial Intelligence which includes Machine Learning, Neural Networks, etc. and IoT.
